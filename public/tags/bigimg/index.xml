@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigimg on Grid&#43;</title>
+    <link>https://17f-money.gitlab.io/grid/tags/bigimg/</link>
+    <description>Recent content in Bigimg on Grid&#43;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>flanagan.s@husky.neu.edu (Steve Flanagan)</managingEditor>
+    <webMaster>flanagan.s@husky.neu.edu (Steve Flanagan)</webMaster>
+    <lastBuildDate>Sat, 07 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://17f-money.gitlab.io/grid/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Image Sample</title>
+      <link>https://17f-money.gitlab.io/grid/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Sat, 07 Mar 2015 00:00:00 +0000</pubDate>
+      <author>flanagan.s@husky.neu.edu (Steve Flanagan)</author>
+      <guid>https://17f-money.gitlab.io/grid/post/2017-03-07-bigimg-sample/</guid>
+      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
